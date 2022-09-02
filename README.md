@@ -1,6 +1,6 @@
 ### Read Me
-Team Members: 
-Angela Nguyen - boncannotcode
-Sam Jansen - TiiLeaf
-Jason Pabelico - japa-cs
-Aryn Cats - A-R-Cats
+Team Members: <br>
+Angela Nguyen - boncannotcode <br>
+Sam Jansen - TiiLeaf <br>
+Jason Pabelico - japa-cs <br>
+Aryn Cats - A-R-Cats <br>
