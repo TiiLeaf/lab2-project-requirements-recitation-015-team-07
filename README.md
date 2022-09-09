@@ -17,3 +17,4 @@ Aryn Cats
  - Sam Jansen - TiiLeaf <br>
  - Jason Pabelico - japa-cs <br>
  
+This lab is a test of git commands as well as resolving merge conflicts between branches.
