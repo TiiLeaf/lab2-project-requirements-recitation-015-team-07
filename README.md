@@ -9,3 +9,5 @@
  - Jason Pabelico - japa-cs <br>
  
 >>>>>>> main
+
+This lab test and teaches us git commands.
