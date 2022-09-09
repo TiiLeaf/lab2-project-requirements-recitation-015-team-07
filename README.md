@@ -8,3 +8,5 @@
  - Sam Jansen - TiiLeaf <br>
  - Jason Pabelico - japa-cs <br>
  
+ 
+ Testing and teaching git commands
