@@ -2,8 +2,7 @@
 
 # Lab 2
 
-Our Team Members: 
-<hr/>
+Team Members: 
  - Angela Nguyen - boncannotcode
  - Sam Jansen - TiiLeaf
  - Jason Pabelico - japa-cs
