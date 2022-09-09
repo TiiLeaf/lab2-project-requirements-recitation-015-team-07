@@ -3,7 +3,7 @@
 # Lab 2
 
 Team Members: 
- - Angela Nguyen - boncannotcode
  - Sam Jansen - TiiLeaf
+ - Angela Nguyen - boncannotcode
  - Jason Pabelico - japa-cs
  - Aryn Cats - A-R-Cats
